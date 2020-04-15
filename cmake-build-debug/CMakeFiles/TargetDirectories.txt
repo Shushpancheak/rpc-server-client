@@ -1,0 +1,4 @@
+/home/shushpancheak/proj/rpc-server-client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shushpancheak/proj/rpc-server-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shushpancheak/proj/rpc-server-client/cmake-build-debug/CMakeFiles/server.dir
+/home/shushpancheak/proj/rpc-server-client/cmake-build-debug/CMakeFiles/client.dir
